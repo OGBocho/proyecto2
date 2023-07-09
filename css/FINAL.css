@@ -1,0 +1,62 @@
+/*CSS*/
+
+* {margin: 0;
+    padding: 0;}
+
+.item {background-color: blueviolet;
+    text-align: center;}
+
+h1{text-align: center;
+    font-size: 25px;}
+h2{text-align: center;}
+
+.inicio{font-size: 25px;}
+
+.card-text {color: floralwhite;}
+
+.navbar{background-color: rgb(255, 0, 132);}
+
+.nav-item {color: rgb(255, 255, 255);}
+
+
+h5{color: aliceblue;}
+
+.primero{background-color: rgb(255, 39, 111);
+        padding: 12px;
+    color: rgb(255, 255, 255);}
+.segundo{background-color: rgb(79, 39, 255);
+    padding: 12px;
+    color: rgb(255, 255, 255);}
+.tercero{background-color: rgb(67, 114, 255);
+    padding: 12px;
+    color: rgb(255, 255, 255);}
+
+    .coso{font-size: 60px;}
+
+.blanco {color: rgb(255, 255, 255);}
+
+@media only screen and (min-width: 780) {
+
+    h1{text-align: center;
+        font-size: 55px;}
+    .inicio{font-size: 55px;}
+    .navbar-brand {width: 100px;
+                    display: block;}
+    .navbar-brand img {width: 100%;}
+
+ }
+
+.form-label {color: rgb(255, 255, 255);}
+p{color: rgb(255, 255, 255);}
+
+.container2 {display: flex; 
+    width: 30%;
+    margin: auto;}
+
+    a.itemso { width: 33.33%;
+        min-height: 200px;
+        text-align: center;
+        font-size: 90px;
+        color: rgb(255, 0, 76);}
+
+.fin {text-align: center;}

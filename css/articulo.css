@@ -1,0 +1,27 @@
+/*CSS*/
+/*moverle mas y checar lo del alt? un comando para que se vea como articulo*/
+
+h1{ font-family: 'Armata', sans-serif;
+    font-size: 50px;  
+    text-align: center;
+    background-image: url(https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_1315/ae51381a12d4ba0887f49f79a8fbb583.jpg);
+    color: honeydew;
+    height: 300px;}
+
+.dlc {font-family: 'Arvo', serif;
+      font-size: 15px;}
+
+.season{font-family: 'Arvo', serif;
+        font-size: 15px; 
+        background-image: url(https://news.xbox.com/en-us/wp-content/uploads/sites/2/2023/05/Deep-key-art-7494016380027bc3b086.jpg );
+        padding: 35px 20px;
+        color: aliceblue;}
+
+
+.dungeon{}
+
+.deep{}
+
+.wish{}
+
+.gms{}

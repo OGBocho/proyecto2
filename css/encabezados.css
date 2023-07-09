@@ -1,0 +1,23 @@
+/*documento CSS*/
+
+body{background-color: rebeccapurple;}
+
+
+*{font-size: 25px;}
+
+
+h1{color: fuchsia; text-align: center; text-decoration: underline;}
+
+h2,h4{color: brown;} /*agrupacion de selectores*/
+
+h3,h5{color: tomato;}
+
+h6{color: lime;}
+
+p{color: orange;}
+
+.atencion{color: rgb(0, 157, 255);}
+
+.izq{float: right;
+    width: 500;
+    height: 500;}

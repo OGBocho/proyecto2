@@ -1,0 +1,41 @@
+/*css*/
+
+/*< link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"> */
+
+
+.cabecera { }
+
+.social { }
+
+.container2 {display: flex; 
+            width: 30%;
+            margin: auto;}
+
+
+
+a.item  { width: 33.33%;
+            min-height: 200px;
+            text-align: center;
+            font-size: 90px;
+            color: rgb(255, 0, 76);}
+
+            
+/*Pantallas mayores a 600px*/
+@media only screen and (min-width: 600px) {
+
+    
+    a.item{color:rgb(0, 8, 255)} 
+    
+    
+ }
+
+
+ /*Pantallas mayores a 780px*/
+@media only screen and (min-width: 780) {
+
+    .container{width: 90%;}
+    a.item{color:rgb(55, 255, 0);
+        font-size: 50px;} 
+    
+    
+ }

@@ -1,0 +1,54 @@
+/*CSS*/
+/*EL IMPORTANT SABES QUE DA PRIORIDAD*/
+/*investigar column*/
+
+* {margin: 0px;
+    padding: 0px;}
+
+
+
+body{ font-family: 'Open Sans', sans-serif;
+        font-size: 1.2em;
+        text-align: center;}
+
+h1 {  font-family: 'Luckiest Guy', cursive;
+                    font-size:50px;}
+
+
+#productos{width: 100%;
+            min-height: 1px;
+            background-color: orangered;
+            padding: 30px 0px 0px;}
+
+.container{width: 70%;
+            min-height: 1px;
+            display: flex;
+            margin: 0px auto 0px auto;}
+
+.items { width: 33.33%;
+            text-align: center;
+            min-height: 150px;
+        background-image: url(../img/12344.jpg);
+        background-size: 200px 200px;}
+
+
+.items::after{content: "vendido";
+                display: block;
+                width: 100%;
+                padding: 8px;
+                text-transform: uppercase;
+                margin-top: 90px;
+                transform: rotate(-45deg);    
+                position: relative;
+                top: -10px;
+                left: -40px;}
+
+.contenido {padding: 35px; }
+
+.contenido p {  line-height: 1.5;}
+
+.contenido p::first-letter  { font-size: 3em;
+                                float: left;
+                            margin-right: 3px;}
+
+

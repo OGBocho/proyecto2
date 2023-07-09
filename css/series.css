@@ -1,0 +1,69 @@
+/*css*/
+/*tipografias*/
+
+* { margin: 0;
+    padding: 0;}
+
+header, section, article, footer, div, nav, aside, main { box-sizing: border-box;}
+
+/*
+.TTGL {    width: 70%;
+            justify-content: space-between;
+            min-height: 400px;
+            background-color: rgb(236, 51, 0);
+            margin: auto;
+            padding: 15px;
+            text-align: center;
+            color: rgb(174, 0, 227);
+            font-size: 30px;
+            flex-flow: row;}
+
+.himym {    width: 70%;
+            justify-content: space-between;
+            min-height: 400px;
+            background-color: rgb(255, 225, 0);
+            margin: auto;
+            padding: 15px;
+            text-align: center;
+            color: rgb(174, 0, 227);
+            font-size: 30px;
+            flex-flow: row;}
+
+.RS {    width: 70%;
+            justify-content: space-between;
+            min-height: 400px;
+            background-color: rgb(91, 3, 139);
+            margin: auto;
+            padding: 15px;
+            text-align: center;
+            color: rgb(174, 0, 227);
+            font-size: 30px;
+            flex-flow: row;}
+*/
+
+.container { display: flex;
+            background-color: blueviolet;
+            align-items: center;
+            justify-content: space-between;}
+
+h1 {background-color: blueviolet;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: azure;}
+
+h2 {text-align: center;
+    font-family: 'Cinzel', serif; }
+
+body {font-family: 'Arvo', serif;
+        text-align: center;}
+
+.rs {background-color: purple;
+        color: aliceblue;
+        padding: 10px;}
+
+.mar {background-color: goldenrod;
+        padding: 10px;}
+
+.tt {background-color: red;
+    color: azure;
+    padding: 10px;}

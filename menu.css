@@ -1,0 +1,9 @@
+/*CSS*/
+/*Para descargar tipografias: agarramos el archivo que se instala, se lleva a webfont
+generator, la insertamos, todo eso se pone en la carpeta de fonts y ahi te puedes guiar
+se le agrega fonts/ a esa madre que nos dio una perra weba
+hacer esa cosa del logo para que sea flexible, se pone en navbar brand*/
+
+.fondo-menu { background-color: gold;}
+
+.navbar-brand {width: 100px;}

@@ -1,0 +1,28 @@
+/*css*/
+
+h1 { background-image: url(../img/pollofull.jpg);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    height: 100%;
+    padding: 50px 50px;
+    font-family: Cinzel;}
+
+
+.container { display: flex;
+        background-color: rgb(255, 128, 0);
+        align-items: justify;
+        justify-content: space-between;
+        padding: 20px;}
+
+body {font-family: Arvo;
+    background-color: rgb(255, 191, 0);}
+
+.combi { display: flex;
+    background-color: rgb(255, 128, 0);
+    align-items: justify;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;}
+
